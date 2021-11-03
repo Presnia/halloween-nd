@@ -1,0 +1,11 @@
+{
+  "name": "halloween-nd",
+  "version": "1.0.0",
+  "description": "halloween-nd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Debysh",
+  "license": "MIT"
+}
